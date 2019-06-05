@@ -1,0 +1,29 @@
+header{
+  background-color: lightblue;
+  height: 20vh;
+}
+
+.right{
+  float: right;
+  text-align: right;
+}
+
+.left{
+float: left;
+}
+/*.right{
+float: right;
+text-align: right;
+}*/
+
+.skills ul{
+list-style: none;
+margin: auto;
+}
+
+.skills ul li{
+  display: inline-block;
+  background-color: #a0afc9;
+  margin: .25em;
+  padding:.25em;
+}
